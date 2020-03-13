@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "479533055055",
+    "firebase_url": "https://sanchar-fc5c9.firebaseio.com",
+    "project_id": "sanchar-fc5c9",
+    "storage_bucket": "sanchar-fc5c9.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:479533055055:android:a9443cfa1d88efbc99be3a",
+        "android_client_info": {
+          "package_name": "tech.hack.sanchar"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "479533055055-oepnt1sknebrsggbdj4qjvv98o6oq5rq.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyD2_n-R_QlPdZci7VYEcqCUcXcXhgr_bDc"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "479533055055-oepnt1sknebrsggbdj4qjvv98o6oq5rq.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
